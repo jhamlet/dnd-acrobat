@@ -1,0 +1,17 @@
+{
+    "name": "dnd-acrobat",
+    "version": "0.1.0",
+    "main": "dnd-acrobat.js",
+    "dependencies": {
+        "underscore":       "1.x.x",
+        "protean":          "0.2.x"
+    },
+    "devDependencies": {
+        "del":              "*",
+        "gulp":             "3.x.x",
+        "gulp-browserify":  "0.x.x",
+        "gulp-uglify":      "1.x.x",
+        "gulp-concat":      "*"
+    },
+    "private": true
+}
