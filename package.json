@@ -4,10 +4,12 @@
     "main": "dnd-acrobat.js",
     "dependencies": {
         "underscore":       "1.x.x",
-        "protean":          "0.2.x"
+        "protean":          "0.2.x",
+        "rx":               "2.x"
     },
     "devDependencies": {
         "del":              "*",
+        "broserify":        "7.x",
         "gulp":             "3.x.x",
         "gulp-browserify":  "0.x.x",
         "gulp-uglify":      "1.x.x",
